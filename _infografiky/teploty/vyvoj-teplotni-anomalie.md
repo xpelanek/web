@@ -12,7 +12,7 @@ data-orig:  [ [ "Zdrojová data NASA", "https://data.giss.nasa.gov/gistemp/" ] ]
 
 ## Co je zobrazeno v grafu
 
-* Data jsou zpracovány z měření 6 300  stanic na souši, měření lodí i plovoucích bójí a vědeckých stanic v Arktidě a Antarktidě.
+* Data jsou zpracovány z měření více než 20 000 meteorologických stanic na souši, měření lodí i plovoucích bójí a vědeckých stanic v Arktidě a Antarktidě.
 * V grafu je znázorněn vývoj __teplotní anomálie__ vzhledem k __referenčnímu období 1951–1980__, nejde o graf průměrné teploty. Podrobnosti k výpočtu teplotní anomálie níže.
 
 ## Klíčová fakta
